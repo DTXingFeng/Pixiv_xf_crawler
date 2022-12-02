@@ -1,14 +1,14 @@
 # Pixiv_xf_crawler
 简单的Pixiv热榜爬虫
 
-#启动前准备
+# 启动前准备
 
 将Cookie复制到cokie.txt内
 
 
 
 
-#启动方法
+# 启动方法
 
 RankingUrl(2,1,0);
 
